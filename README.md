@@ -12,3 +12,4 @@ Make sure to put the local IP address of the computer running the server in line
 
 To connect with another user who is logged onto the signaling server, just enter their username when prompted and call.
 
+NOTE- This flutter App has only been tested on Android, It may not work for Ios.
