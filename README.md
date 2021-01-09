@@ -13,3 +13,7 @@ Make sure to put the local IP address of the computer running the server in line
 To connect with another user who is logged onto the signaling server, just enter their username when prompted and call.
 
 NOTE- This flutter App has only been tested on Android, It may not work for Ios.
+
+![Typing in the username](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) | ![Ongoing video call](https://media.giphy.com/media/jGFUz1z0dArZw1KMLy/giphy.gif)               
+
+
