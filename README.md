@@ -14,6 +14,6 @@ To connect with another user who is logged onto the signaling server, just enter
 
 NOTE- This flutter App has only been tested on Android, It may not work for Ios.
 
-![Typing in the username](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) | ![Ongoing video call](https://media.giphy.com/media/jGFUz1z0dArZw1KMLy/giphy.gif)               
+![Typing in the username](https://media.giphy.com/media/F3mfIZFwWGEJ2SUo13/giphy.gif) | ![Ongoing video call](https://media.giphy.com/media/jGFUz1z0dArZw1KMLy/giphy.gif)               
 
 
